@@ -104,5 +104,5 @@ Conclusion
 
 The AIBE is approachable and manageable with the right strategy. With a clear understanding of legal fundamentals and familiarity with bare acts, candidates can confidently secure the Certificate of Practice.
 
-For an extended strategy breakdown, visit:
-https://mocktestarena.com/all-india-bar-examination-syllabus-strategy/
+[For an extended strategy breakdown, visit:]
+(https://mocktestarena.com/all-india-bar-examination-syllabus-strategy/)
